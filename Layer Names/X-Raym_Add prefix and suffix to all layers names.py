@@ -8,7 +8,6 @@
 # Krita: 4.0.0
 # Version: 1.0
 
-import sys
 from krita import *
 
 # USER CONFIG AREA ##################
